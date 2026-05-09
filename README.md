@@ -1,6 +1,6 @@
 **Bravo Departure Predictor**
 
-A logistic regression model trained on 8 Bravo cast members predicts Amanda Batula's departure probability at 96.9% and West Wilson's at 2.8% — despite identical timing, allegation status, and castmate reaction scores.
+A logistic regression model trained on 8 Bravo cast members predicts Amanda Batula's departure probability at 96.9% and West Wilson's at 2.8% despite identical timing, allegation status, and castmate reaction scores.
 
 **The finding**
 
