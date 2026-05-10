@@ -18,7 +18,7 @@ Eight variables scored for each cast member:
 **Training data**
 <img width="641" height="509" alt="Screenshot 2026-05-09 at 7 49 00 PM" src="https://github.com/user-attachments/assets/16ab57dd-520a-43f8-85ca-92bfa2380d04" />
 
-**Predictions: Summer House Season 8**
+**Predictions: Summer House Season 11**
 
 Both subjects were involved in the same post-filming infidelity scandal. Same timing. Same allegation status. Same castmate reaction.
 <img width="639" height="142" alt="Screenshot 2026-05-09 at 7 49 53 PM" src="https://github.com/user-attachments/assets/05230186-d37e-4129-9ac9-a3be47e99bcd" />
