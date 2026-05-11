@@ -42,7 +42,10 @@ each time removing one variable.
 
 <img width="340" height="165" alt="Screenshot 2026-05-10 at 8 06 04 PM" src="https://github.com/user-attachments/assets/0368984a-eb18-4483-875b-5becd387de7e" />
 
+
+
 **THE UPSHOT:**
+
 ***It is not what you did. It is who the audience thought you were.***
 
 *The Innocent Edit Score* is determined based on how thoroughly producers constructed a cast member as a 'victim' to gain audiences' sympathy 
