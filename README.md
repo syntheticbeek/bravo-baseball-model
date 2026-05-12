@@ -59,11 +59,6 @@ The observed gap is statistically significant at the 0.05 threshold. The finding
 *The Innocent Edit Score* is determined based on how thoroughly producers constructed a cast member as a 'victim' to gain audiences' sympathy 
 before the cast members negative reputation incident occurs- this is the primary structural determinant of departure outcomes on Bravo programming.
 
-**Score a New Cast Member**
-
-Want to apply the model to a different franchise or cast member? 
-Clone the repo and edit the scoring inputs in BRAVO_CASTMATE_DEPARTURE.ipynb . Each variable is documented inline.
-
 
 **Methodology**
 
