@@ -25,9 +25,30 @@ Same incident. Same show. Same season. 93.6 pt difference.
 
 **Training Data**
 
-Eight cases across four franchises with verified departure outcomes.
+Eight cases across four franchises with verified departure outcomes:
 
-<img width="454" height="389" alt="Screenshot 2026-05-10 at 9 28 38 PM" src="https://github.com/user-attachments/assets/0e768ad3-bbba-4040-8edd-93bd7758ec00" />
+Betrayal Index: (1–10) measures how severely the incident violated audience trust specifically, the gap between who the cast member was understood to be and what they actually did.
+
+
+Innocent Edit Score: (1–10) captures how thoroughly producers had constructed the cast member as sympathetic, victimized, or morally trustworthy before the incident occurred. This is the variable that changes everything.
+
+
+Cast Currency: (1–10) reflects narrative value to the show (tenure, fan investment, centrality to the storyline).
+
+
+Castmate Reaction: (Ordinal) encodes whether fellow cast members responded with support, neutrality, or hostility. Producer decisions on Bravo have historically tracked cast consensus.
+
+
+Incident Timing: (Ordinal) captures when in the production cycle the incident occurred, which determines how much rehabilitation window exists before renewal decisions are made.
+
+
+Allegations: (Binary) confirmed or denied
+
+
+Gender: (Binary) male or female
+
+
+Prior Incident: (Binary) first offense or repeat
 
 
 **Predictions: Summer House Season 11**
