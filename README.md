@@ -20,13 +20,6 @@ Same incident. Same show. Same season. 93.6 pt difference.
 
 **8 Variables Defined:**
 
-<img width="630" height="521" alt="Screenshot 2026-05-10 at 7 56 44 PM" src="https://github.com/user-attachments/assets/101cb84e-ae45-4119-b95d-526c68645cd9" />
-
-
-**Training Data**
-
-Eight cases across four franchises with verified departure outcomes:
-
 Betrayal Index: (1–10) measures how severely the incident violated audience trust specifically, the gap between who the cast member was understood to be and what they actually did.
 
 
@@ -49,6 +42,11 @@ Gender: (Binary) male or female
 
 
 Prior Incident: (Binary) first offense or repeat
+
+**Training Data**
+
+<img width="481" height="413" alt="Screenshot 2026-05-12 at 4 44 06 PM" src="https://github.com/user-attachments/assets/d974c15f-fe28-4bfc-a036-a5a84b5251d2" />
+
 
 
 **Predictions: Summer House Season 11**
